@@ -18,7 +18,7 @@ public:
             {
                 ans.push_back("Fizz");
             }
-            else if(!div3)
+            else if(!div5)
             {
                 ans.push_back("Buzz");
             }
